@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Green_Shadow">
+
+	<Key ID="STR_TB_missionTitle_TB_GreenShadow">
+		<Original>Kalo Outskirts</Original>
+		<English>Kalo Outskirts</English>
+		<German>Kalo Outskirts</German>
+		<Italian>Kalo Outskirts</Italian>
+		<Spanish>Kalo Outskirts</Spanish>
+		<French>Kalo Outskirts</French>
+		<Czech>Kalo Outskirts</Czech>
+		<Russian>Kalo Outskirts</Russian>
+		<Polish>Kalo Outskirts</Polish>
+		<Hungarian>Kalo Outskirts</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_GreenShadow">
+		<Original>TacBF A&amp;S[T-10]: Kalo Outskirts</Original>
+		<English>TacBF A&amp;S[T-10]: Kalo Outskirts</English>
+		<German>TacBF A&amp;S[T-10]: Kalo Outskirts</German>
+		<Italian>TacBF A&amp;S[T-10]: Kalo Outskirts</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Kalo Outskirts</Spanish>
+		<French>TacBF A&amp;S[T-10]: Kalo Outskirts</French>
+		<Czech>TacBF A&amp;S[T-10]: Kalo Outskirts</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Kalo Outskirts</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Kalo Outskirts</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Kalo Outskirts</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
